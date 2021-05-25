@@ -784,6 +784,7 @@ ul.footer_social li a i:hover {
     font-family: 'Kaushan Script', cursive;
     font-size: 72px;
     color: #101E5B;
+    letter-spacing: -2px;
 }
 
 .home-section p.hero-text{
