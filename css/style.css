@@ -1392,6 +1392,10 @@ ul.benefits.white li i {
     .line-break {
         display: block;
     }
+    
+    .disappear {
+        display: none;
+    }
 
 	.footer {
 	    padding-top: 20px;
