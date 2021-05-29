@@ -685,7 +685,7 @@ ul.footer_social li a i:hover {
 .home-section {
 	position: relative;
 	z-index: 999;
-  	padding-top: 110px;
+  	padding-top: 130px;
   	padding-bottom: 110px;
   	background: url(../images/bg2.jpg) top center;
 	background-size:contain;
@@ -705,7 +705,7 @@ ul.footer_social li a i:hover {
 
 .home-section h1 {
     margin-bottom: 20px;
-    line-height: 1.2;
+    line-height: 61px;;
     text-align: center;
     font-family: Montserrat, Verdana, Arial, sans-serif;
     font-weight: 900;
@@ -718,8 +718,8 @@ ul.footer_social li a i:hover {
     padding: 0px 75px;
 	margin-bottom: 35px;
 	font-size: 36px;
-	line-height: 30px;
-	font-weight: 400;
+	line-height: 41px;
+	font-weight: 500;
 	color: #101E5B;
 }
 
@@ -1348,7 +1348,7 @@ ul.benefits.white li i {
 	}
     
     home-section p.hero-text{
-        font-size: 48px;
+        font-size: 42px;
     }
     
     .feature-box i{
@@ -1376,8 +1376,9 @@ ul.benefits.white li i {
 	}
     
     .home-section h1 {
-        margin-top: 80px;
-	    font-size: 42px;
+        margin-top: 60px;
+        font-size: 42px;
+        line-height: 47px;
 	}
 
 	.home-section-overlay{
@@ -1386,6 +1387,10 @@ ul.benefits.white li i {
     
     .home-section p.hero-text{
         font-size: 32px;
+    }
+    
+    .line-break {
+        display: block;
     }
 
 	.footer {
